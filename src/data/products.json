@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "Nombre": "Te Frio",
+    "Descripcion": "Refresco",
+    "Precio": "1000",
+    "Cantidad": "5"
+  },
+  {
+    "id": 2,
+    "Nombre": "Fanta",
+    "Descripcion": "Gaseosa",
+    "Precio": "2000",
+    "Cantidad": "4"
+  }
+]
